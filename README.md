@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @julia-mo
-- 👀 I’m interested in web design and nature
-- 🌱 I’m currently learning how to use Git and design apps
-- 💞️ I’m looking to collaborate on nothing yet...
-- 📫 How to reach me ... (?)
+Hi, I’m @julia-mo
+
 
 <!---
 julia-mo/julia-mo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
